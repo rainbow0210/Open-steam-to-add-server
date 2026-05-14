@@ -46,7 +46,7 @@ document.location.href = "steam://connect/your_server_address";
 `your_server_address` を、実際のサーバーアドレスに置き換えてください。必要に応じて、ポート番号を含めた形式で指定します。
 
 ## ライセンス
-Unlicense
+Unlicense license
 
 # English
 ## Overview
@@ -94,4 +94,4 @@ document.location.href = "steam://connect/your_server_address";
 Replace `your_server_address` with the actual server address. Include a port number if required.
 
 ## License
-Unlicense
+Unlicense license
